@@ -13,6 +13,7 @@ function calculadora() {
 
   if (opcion !== "5" && opcion !== "7") {
     num2 = parseFloat(prompt("Ingrese el segundo número:"));
+    
   }
 
   switch (opcion) {
